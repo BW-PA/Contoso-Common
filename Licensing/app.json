@@ -1,37 +1,35 @@
-﻿{
-    "id":  "411e1f3c-78f8-4f7c-a6d2-e0d5da7d28af",
-    "name":  "Licensing",
-    "publisher":  "Contoso",
-    "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-                         {
-                             "id":  "ad529cbb-1f6a-4053-8869-31aaad9e39a1",
-                             "publisher":  "Contoso",
-                             "name":  "common",
-                             "version":  "1.0.0.0"
-                         }
-                     ],
-    "screenshots":  [
-
-                    ],
-    "platform":  "1.0.0.0",
-    "application":  "18.0.0.0",
-    "idRanges":  [
-                     {
-                         "from":  60000,
-                         "to":  60010
-                     }
-                 ],
-    "resourceExposurePolicy":  {
-                                   "allowDebugging":  true,
-                                   "allowDownloadingSource":  false,
-                                   "includeSourceInSymbolFile":  false
-                               }
+{
+  "id": "411e1f3c-78f8-4f7c-a6d2-e0d5da7d28af",
+  "name": "Licensing",
+  "publisher": "Contoso",
+  "version": "1.1.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "ad529cbb-1f6a-4053-8869-31aaad9e39a1",
+      "publisher": "Contoso",
+      "name": "common",
+      "version": "1.1.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60010
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
 }
