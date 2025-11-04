@@ -1,6 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go@internaltemplate",
-  "templateSha": "7eccfda0c99c3ae771fa201bb6ad32e89352aa63",
-  "GhTokenWorkflowSecretName": "GhAppTokenWorkflow"
+  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
+  "templateSha": "0fa7e9756b6e3ad9389c206b124646ae2e2eab08",
+  "GhTokenWorkflowSecretName": "GHTOKENWORKFLOW"
 }
